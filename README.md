@@ -15,7 +15,7 @@ A short courses page that displays the short courses that the department offers,
 A footer that contains academic information, such as the academic calendar and the timetable.
 Technologies
 The website is built using HTML and CSS. The website uses a simple and responsive design that adapts to different screen sizes and devices. The website also uses images and buttons to make it more attractive and interactive.
-![Screenshot](C:\Users\LENOVO\OneDrive\Pictures\Screenshots\2023-11-28 (3).png)
+[![Screenshot](C:\Users\LENOVO\OneDrive\Pictures\Screenshots\2023-11-28 (3).png)](https://github.com/sey419/11357126_DCIT_205_IA/assets/143730527/27bf689b-9b03-417f-87de-ca54b82161f7)
 ![Screenshot](C:\Users\LENOVO\OneDrive\Pictures\Screenshots\2023-11-28 (4).png)
 
 ## How to use

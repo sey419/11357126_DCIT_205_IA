@@ -16,7 +16,7 @@ A footer that contains academic information, such as the academic calendar and t
 Technologies
 The website is built using HTML and CSS. The website uses a simple and responsive design that adapts to different screen sizes and devices. The website also uses images and buttons to make it more attractive and interactive.
 https://github.com/sey419/11357126_DCIT_205_IA/assets/143730527/27bf689b-9b03-417f-87de-ca54b82161f7
-![Screenshot](C:\Users\LENOVO\OneDrive\Pictures\Screenshots\2023-11-28 (4).png)
+https://github.com/sey419/11357126_DCIT_205_IA/assets/143730527/0969bcb6-7341-42bd-bc80-138cddfa9bfe
 
 ## How to use
 To use the website, you need to have a web browser that supports HTML and CSS. You can open the website by clicking on the DCIT205.html file in the folder. You can navigate to other pages by clicking on the links in the navigation bar or the buttons on the home page. You can also download the images and files that are linked on the website.
@@ -33,10 +33,10 @@ A short courses page that displays the short courses that the department offers,
 A certification section that explains the criteria and the process of obtaining a certificate after completing the short courses.
 A footer that contains academic information, such as the academic calendar and the timetable.
 Technologies
-The website is built using HTML and CSS. The website uses a simple and responsive design that adapts to different screen sizes and devices. The website also uses images and buttons to make it more attractive and interactive.![Screenshot](C:\Users\LENOVO\OneDrive\Pictures\Screenshots\2023-11-28 (1).png)
+The website is built using HTML and CSS. The website uses a simple and responsive design that adapts to different screen sizes and devices. The website also uses images and buttons to make it more attractive and interactive. https://github.com/sey419/11357126_DCIT_205_IA/assets/143730527/e96e51fc-45a8-4fe4-84e6-6dee3063e206
 
 ### How to use
-To access the website, ensure your web browser supports HTML and CSS. Open the website by clicking on the ShortCourses.html file located in the folder. Navigate to different pages by selecting the links available in the navigation bar. Explore images and descriptions of short courses by clicking on the corresponding buttons on the short courses page. If interested in registering for short courses, simply click on the registration button and complete the provided form.![Screenshots](C:\Users\LENOVO\OneDrive\Pictures\Screenshots\2023-11-28 (2).png)
+To access the website, ensure your web browser supports HTML and CSS. Open the website by clicking on the ShortCourses.html file located in the folder. Navigate to different pages by selecting the links available in the navigation bar. Explore images and descriptions of short courses by clicking on the corresponding buttons on the short courses page. If interested in registering for short courses, simply click on the registration button and complete the provided form.   https://github.com/sey419/11357126_DCIT_205_IA/assets/143730527/98a5714f-f174-43a4-856c-c3876368795d
 
 
 ## Undergraduate Programmes
@@ -48,9 +48,8 @@ The website has the following features:
 A home page with a logo and a navigation bar that links to other pages.
 An undergraduate programmes page that displays the two undergraduate degree programmes that the department offers, which are Bachelor of Science in Computer Science Single-Major (3:2:1:1) and Major-Minor (3:2:2:1) as well as Bachelor of Science in Information Technology. The page also explains the admission requirements and the laptop specifications for the programmes.
 A computer science section that describes the computer science programme, its objectives, its learning outcomes, and its curriculum. The section also lists the courses for each semester and level, along with their course codes and credits.
-A information technology section that describes the information technology programme, its objectives, its learning outcomes, and its curriculum. The section also lists the courses for each semester and level, along with their course codes and credits.![Screenshot](C:\Users\LENOVO\OneDrive\Pictures\Screenshots\2023-11-28 (6).
-png)
-![Screenshots]()
+A information technology section that describes the information technology programme, its objectives, its learning outcomes, and its curriculum. The section also lists the courses for each semester and level, along with their course codes and credits.https://github.com/sey419/11357126_DCIT_205_IA/assets/143730527/38fd2f27-ef83-45fe-9caa-65b7fd7074fd
+
 ### Technologies
 The website is built using HTML and CSS. The website uses a simple and responsive design that adapts to different screen sizes and devices. The website also uses headings, paragraphs, and buttons to make it more readable and interactive.
 
@@ -67,7 +66,7 @@ A home page with a logo and a navigation bar that links to other pages.
 A MPhil and MSc page that displays the two master’s programmes that the department offers, which are Master of Science (MSc.) and Master of Philosophy (MPhil.) in Computer Science. The page also explains the difference between the programmes, their admission requirements, and their learning outcomes.
 A computer science MPhil section that describes the MPhil programme, its structure, its objectives, and its curriculum. The section also lists the courses for each semester, along with their course codes and credits.
 A computer science MSc section that describes the MSc programme, its structure, its objectives, and its curriculum. The section also lists the courses for each semester, along with their course codes and credits.
-![Screenshot](C:\Users\LENOVO\OneDrive\Pictures\Screenshots\2023-11-28 (8).png)
+https://github.com/sey419/11357126_DCIT_205_IA/assets/143730527/448908a0-dae0-447f-b867-b4a364f57a44
 
 ### Technologies
 The website is built using HTML and CSS. The website uses a simple design that adapts to different screen sizes. The website uses headings, paragraphs, and buttons to make it more readable.
@@ -84,7 +83,7 @@ The website has the following features:
 A home page with a logo and a navigation bar that links to other pages.
 A PhD programme page that displays the PhD programme that the department offers, which is a full-time research programme that lasts for four years. The page also explains the admission requirements, the programme of study, and the research areas.
 A PhD curriculum section that describes the PhD programme, its structure, its objectives, and its curriculum. The section also lists the courses for each semester and year, along with their course codes and credits.
-![Screenshot](C:\Users\LENOVO\OneDrive\Pictures\Screenshots\2023-11-28 (9).png)
+https://github.com/sey419/11357126_DCIT_205_IA/assets/143730527/88d94944-10a5-40a4-861c-394cb9d70d66
 ### Technologies
 The website is built using HTML and CSS. The website uses a simple and responsive design that adapts to different screen sizes and devices. The website also uses headings, paragraphs, and buttons to make it more readable and interactive.
 
@@ -101,7 +100,7 @@ A home page with a logo and a navigation bar that links to other pages.
 A faculty page that displays the names and profiles of the faculty members, along with their contact details and their research areas.
 A events page that displays the images and descriptions of the events that the department organizes or participates in, such as seminars, workshops, conferences, and competitions.
 A footer that contains academic information, such as the academic calendar and the timetable.
-![Screenshot](C:\Users\LENOVO\OneDrive\Pictures\Screenshots\2023-11-28 (11).png)
+https://github.com/sey419/11357126_DCIT_205_IA/assets/143730527/40d2d3e7-c1f8-4603-b250-384f97091eb4
 
 
 ### Technologies
@@ -113,10 +112,10 @@ The form of naviagtion and selection of buttons and links is the same as used in
 
 
 Other screenshots of pages linked with main websites;
-![Screenshots](C:\Users\LENOVO\OneDrive\Pictures\Screenshots\2023-11-28 (10).png)
+https://github.com/sey419/11357126_DCIT_205_IA/assets/143730527/6713a026-d7fe-4a80-b32a-847da09a0561
 
 
-![Screenshots](C:\Users\LENOVO\OneDrive\Pictures\Screenshots\2023-11-28 (14).png)
+github.com/sey419/11357126_DCIT_205_IA/assets/143730527/c6ba6486-6510-4200-90d5-16debcd56b8f
 
 Some of the things I learnt to do by partaking in this project are creating a remote repo and committing and pushing files into the repo.
 
